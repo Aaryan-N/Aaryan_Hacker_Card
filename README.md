@@ -9,3 +9,6 @@ Front <img width="600" alt="Screenshot 2024-08-17 110318" src="https://github.co
 Email blurred for privacy
 
 Back ![image](https://github.com/user-attachments/assets/ab0a0f5e-0434-4502-91f5-18b3f6329bcf)
+
+Schematic ![image](https://github.com/user-attachments/assets/4600e7fd-76c8-428f-8f2b-e3a8c92fd480)
+
